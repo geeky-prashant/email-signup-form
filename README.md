@@ -9,7 +9,7 @@
 
   <h2 align="center">Email Signup Form</h2>
 
-  In this project, I have created an Email Signup Form, <br />The project is built using HTML5 & CSS3.
+  In this project, I have created an Email Signup Form, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/email-signup-form/"><strong>➥ Live Demo</strong></a>
 
